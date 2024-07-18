@@ -1,4 +1,3 @@
-# Comprehensive-Analysis-of-Online-Retail-Customer-Purchase-Behavior-Using-Data-Mining-Techniques
 # Comprehensive Analysis of Online Retail Customer Purchase Behavior Using Data Mining Techniques
 
 ## What is it?
